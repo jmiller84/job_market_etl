@@ -4,12 +4,12 @@
 
 ### **Overview:**
 
-Create an ETL pipeline that scrapes job listings from websites like **Indeed**, **LinkedIn**, or **Glassdoor**. Collect data on job titles, companies, locations, salary ranges, and required skills. Analyse trends in the job market (e.g., most in-demand skills, average salaries for different positions) and store the data in a structured format.
+Create an ETL pipeline that scrapes job listings from websites like **Indeed**, **LinkedIn**, or **Reed**. Collect data on job titles, companies, locations, salary ranges, and required skills. Analyse trends in the job market (e.g., most in-demand skills, average salaries for different positions) and store the data in a structured format.
 
 ### **Steps:**
 
 1. **Data Collection and Exploration:**
-    - Use the **Indeed API** if available if not use a web scraper such as **BeautifulSoup** or **Scrapy**.
+    - Use the **Reed API** if available if not use a web scraper such as **BeautifulSoup** or **Scrapy**.
     - Explore the data and decide what is relevant to the project
     - Store relavent data in a dataframe
 
